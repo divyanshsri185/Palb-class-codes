@@ -1,0 +1,19 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    int arr[5];
+    intEvenSum = 0, oddSum = 0;
+    for (int i=0;i<5;i++)
+    {
+        cin>>arr[i]
+  
+        {if(arr[i]%2==0)
+         Evensum = Oddsum + ar
+            cout<<"even";
+        else
+            cout<<"odd";
+    }
+    return 0;
+}
