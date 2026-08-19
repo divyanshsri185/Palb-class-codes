@@ -1,0 +1,11 @@
+.DS_Store
+.history/
+tempCodeRunnerFile.c++
+
+# Local compiled executables
+/buysellstock
+/classassesment
+/digittonbr
+/equalpair
+/pritnpair
+/removeduplication
