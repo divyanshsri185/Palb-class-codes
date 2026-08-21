@@ -1,1 +1,7 @@
- cout << "After swapping: " << a << " " << b << "\n";
+		maximum = arr[i];
+		}
+	}
+
+	std::cout << maximum << '\n';
+	return 0;
+}
