@@ -20,3 +20,6 @@ int main()
             }
         }
     }
+    //write a program to write a string 
+    //write a program to split a string into word
+    

@@ -17,3 +17,6 @@ int main() {
     cout << "Diagonal sum = " << diagonalSum << endl;
     return 0;
 }
+//what are the uses of the set can we use the set to find a maximum or minimum or sort an array 
+//given an array find two element whose sum is equal to a given value
+//count of each vowel in a string
